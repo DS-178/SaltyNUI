@@ -1,0 +1,28 @@
+:root {
+
+    --background-color: #59036f;
+
+    --background-color2: #cc00c97b;
+
+    --background-color3: #c203b5;
+
+    --Title: white;
+
+    --Title-shadow: white;
+
+    --Title-shadow-intense: 3px;
+
+    --Container-color: #ffffff46;
+
+    --Container-border-color: rgba(255, 255, 255, 0.069);
+    
+    --Container-border-Thickness: 1px; 
+
+    --info-container-text-color: white;
+    
+    --info-container-text-color-shadow: white; 
+
+    --info-shadow-intense: 1px; 
+
+    --ff-basic: sans-serif;
+}
